@@ -2,7 +2,6 @@ package com.anandhavalli.myhelloworld;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.Button;
 import android.widget.TextView;
 
 import butterknife.BindView;
